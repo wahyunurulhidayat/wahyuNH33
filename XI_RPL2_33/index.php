@@ -14,17 +14,17 @@
  </div>
  <h4>Atau</h3>
  <div class="form-group">
-  <input type="text" class="input-mode" placeholder="Nomor Ponsel atau Email" name="nomor">
+  <input type="text" class="input-mode" placeholder="Nomor Ponsel atau Email" name="email">
  </div>
  <div class="form-group">
- <input type="text" class="input-mode" placeholder="Nama Lengkap" name="lengkap">
+ <input type="text" class="input-mode" placeholder="Nama Lengkap" name="nama">
  </div>
  <div class="form-group">
- <input type="text" class="input-mode" placeholder="Nama Pengguna" name="pengguna"> 
+ <input type="text" class="input-mode" placeholder="Nama Pengguna" name="username"> 
  </div>
  
   <div class="form-group">
- <input type="password" class="input-mode" placeholder="Kata Sandi" name="sandi"> 
+ <input type="text" class="input-mode" placeholder="Kata Sandi" name="sandi"> 
  </div>
  <br/>
  <div class="form-group">
